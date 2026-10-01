@@ -1,0 +1,10 @@
+---(Instructions.txt)---
+
+For a real system lock experience, do not run the .exe file.
+
+Run the .bat file instead to enable all automated functions.
+
+WARNING:
+The .bat version may significantly affect normal system usability until the process is terminated.
+
+© 2026 Gaolerposh Dev
